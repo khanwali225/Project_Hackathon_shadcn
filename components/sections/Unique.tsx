@@ -39,7 +39,7 @@ const Unique = () => {
       </div>
 
       <div className="m-4 lg:m-8">
-        <h3 className="text-xl font-bold my-4">discount for Bulk Orders</h3>
+        <h3 className="text-xl font-bold my-4">Discount for Bulk Orders</h3>
         <p className="text-md mb-6">Lorem ipsum dolor sit amt, consectetur adipiscing elit</p>
       </div>
       </div>
