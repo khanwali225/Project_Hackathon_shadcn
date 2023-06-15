@@ -4,7 +4,7 @@ import { Button } from "components/ui/button"
 
 const Unique = () => {
   return (
-    <main className="max-w-[1240px] mx-auto w-full my-8">
+    <main className="max-w-[1240px] mx-auto w-full my-8 bg-blue-100">
       <div className="m-8 lg:m-1">
       <div>
         <h2 className="text-2xl font-bold lg:text-5xl tracking-wider lg:pl-96 mb-10 mt-40 lg:leading-snug ">
@@ -14,7 +14,7 @@ const Unique = () => {
       <div className="md:col-span-2">
       <div className="relative z-10">
       <div className="absolute -z-20">
-        <p className="text-8xl lg:text-8xl tracking-tighter font-extrabold text-[#F2F3F7]">
+        <p className="text-6xl lg:text-8xl  text-center tracking-wide font-extrabold text-[#F2F3F7]">
           Different from Others</p>
       </div>
 
