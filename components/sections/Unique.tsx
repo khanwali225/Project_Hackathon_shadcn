@@ -10,7 +10,7 @@ const Unique = () => {
         <h2 className="text-2xl font-bold lg:text-5xl tracking-wider lg:pl-96 mb-10 mt-40 lg:leading-snug ">
             Unique and Authentic Vintage Designer Jewellery</h2>
       </div>
-      <div className="grid lg:grid-cols-4 gap-12">
+      <div className="grid lg:grid-cols-4 gap-8">
       <div className="md:col-span-2">
       <div className="relative z-10">
       <div className="absolute -z-20">
